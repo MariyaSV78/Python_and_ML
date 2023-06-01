@@ -1,7 +1,6 @@
 import sys
 
 if __name__ == "__main__":
-	# print(len(sys.argv))
 	if len(sys.argv) == 2:
 		if ((sys.argv[1]).isnumeric()):
 			if int(sys.argv[1]) == 0:
