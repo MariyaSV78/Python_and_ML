@@ -10,4 +10,4 @@ if __name__ == "__main__":
 	for i in range (1,5):
 		d = format_data(kata[i])
 		list.insert(i, d)
-	print(f"{list[0]}/{list[1]}/{kata[0]} {list[2]}:{list[3]}$")
+	print(f"{list[0]}/{list[1]}/{kata[0]} {list[2]}:{list[3]}")
